@@ -1,4 +1,4 @@
-FROM node:18
+FROM node:19
 ENV NPM_CONFIG_LOGLEVEL info
 WORKDIR /booth/
 

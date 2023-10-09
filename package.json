@@ -13,7 +13,7 @@
     "@typescript-eslint/parser": "^5.62.0",
     "eslint": "^8.51.0",
     "eslint-config-prettier": "^9.0.0",
-    "ts-loader": "^9.4.4",
+    "ts-loader": "^9.5.0",
     "typescript": "^5.2.2",
     "webpack": "^5.88.2",
     "webpack-cli": "^5.1.4"
